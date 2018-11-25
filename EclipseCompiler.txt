@@ -1,0 +1,1 @@
+2 Dec 2017 14:00:12 GMT: Log 'EclipseCompiler.txt' opened: 2 Dec 2017 14:00:12 GMT with name D:\AtomHacks 2017 Winter\EclipseCompiler.txt
